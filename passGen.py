@@ -11,7 +11,7 @@ print("***for security customize the encoding symbols in the code***")
 #for security add you're own dictionary or change the symbols in this symbol_dict 
 symbol_dict = {
     'a' : '&',
-    'b' : '*'
+    'b' : '*',
     'p' : 'd',
     'l' : '7',
     'o' : 'oo',
